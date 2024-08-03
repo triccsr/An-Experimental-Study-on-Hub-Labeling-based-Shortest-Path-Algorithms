@@ -1,3 +1,16 @@
+Implementation of "An Experimental Study on Hub Labeling based Shortest Path Algorithms". 
+Y Li, LH U, ML Yiu, NM Kou
+Contact: yb47438@um.edu.mo
+
+
+Running Envrionment:
+All algorithms were implemented with C++ and compiled by g++ 4.8 with -O3 flag. 
+All experiments were conducted on a Linux Sever in 64-bit Ubuntu 14.04.2 LTS with Intel Xeon E5-2650v3 and 256GB main memory.
+
+Datasets:
+Please kindly referred to http://www.diag.uniroma1.it/~challenge9/. Noted that we test on the ones with travel time as edge weights.
+
+
 Installation:
 make
 
